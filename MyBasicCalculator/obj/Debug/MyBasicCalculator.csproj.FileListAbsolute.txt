@@ -1,0 +1,16 @@
+/Users/olesianurislamova2000/Desktop/forGit/MyBasicCalculator/MyBasicCalculator/obj/Debug/actool/_PartialAppManifest.items
+/Users/olesianurislamova2000/Desktop/forGit/MyBasicCalculator/MyBasicCalculator/obj/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/olesianurislamova2000/Desktop/forGit/MyBasicCalculator/MyBasicCalculator/obj/Debug/actool/_ProcessedImageAssetsPath.items
+/Users/olesianurislamova2000/Desktop/forGit/MyBasicCalculator/MyBasicCalculator/obj/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/olesianurislamova2000/Desktop/forGit/MyBasicCalculator/MyBasicCalculator/obj/Debug/ibtool/_ProcessedInterfaceDefinitionsPath.items
+/Users/olesianurislamova2000/Desktop/forGit/MyBasicCalculator/MyBasicCalculator/obj/Debug/coremlc/_PartialAppManifest.items
+/Users/olesianurislamova2000/Desktop/forGit/MyBasicCalculator/MyBasicCalculator/obj/Debug/coremlc/_BundleResourceWithLogicalName.items
+/Users/olesianurislamova2000/Desktop/forGit/MyBasicCalculator/MyBasicCalculator/obj/Debug/coremlc/_ProcessedCoreMLModelsPath.items
+/Users/olesianurislamova2000/Desktop/forGit/MyBasicCalculator/MyBasicCalculator/obj/Debug/_ProcessedBundleResourcesPath.items
+/Users/olesianurislamova2000/Desktop/forGit/MyBasicCalculator/MyBasicCalculator/obj/Debug/_ProcessedContentPath.items
+/Users/olesianurislamova2000/Desktop/forGit/MyBasicCalculator/MyBasicCalculator/obj/Debug/MyBasicCalculator.csproj.AssemblyReference.cache
+/Users/olesianurislamova2000/Desktop/forGit/MyBasicCalculator/MyBasicCalculator/obj/Debug/MyBasicCalculator.csproj.CoreCompileInputs.cache
+/Users/olesianurislamova2000/Desktop/forGit/MyBasicCalculator/MyBasicCalculator/bin/Debug/MyBasicCalculator.exe
+/Users/olesianurislamova2000/Desktop/forGit/MyBasicCalculator/MyBasicCalculator/bin/Debug/MyBasicCalculator.pdb
+/Users/olesianurislamova2000/Desktop/forGit/MyBasicCalculator/MyBasicCalculator/obj/Debug/MyBasicCalculator.exe
+/Users/olesianurislamova2000/Desktop/forGit/MyBasicCalculator/MyBasicCalculator/obj/Debug/MyBasicCalculator.pdb
